@@ -19,4 +19,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Link
 
-[Live site URL](hhttps://octavegraf.github.io/qr-code-component-main/)
+[Live site URL](https://octavegraf.github.io/qr-code-component-main/)
